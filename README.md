@@ -9,8 +9,27 @@ This repository contains three Excel files that represent Arabic Reading Compreh
 
 Please cite the following papers when these datasets are used:
 
-•	Mariam Biltawi, Arafat Awajan, and Sara Tedmori. “Arabic Reading Comprehension Benchmarks Created Semiautomatically.” in The 21st International Arab Conference on Information Technology (ACIT’2020), 2020, IEEE.
+@inproceedings{biltawi2020arabic,
+  title={Arabic Reading Comprehension Benchmarks Created Semiautomatically},
+  author={Biltawi, Mariam and Awajan, Arafat and Tedmori, Sara},
+  booktitle={2020 21st International Arab Conference on Information Technology (ACIT)},
+  pages={1--6},
+  year={2020},
+  organization={IEEE}
+}
 
-•	Mariam Biltawi, Arafat Awajan, and Sara Tedmori. "Towards Building an Open-Domain Corpus for Arabic Reading Comprehension," in 35th International Business Information Management Association (IBIMA), 2020.
+@inproceedings{biltawi2020towards,
+  title={Towards Building an Open-Domain Corpus for Arabic Reading Comprehension},
+  author={Biltawi, Mariam and Awajan, Arafat and Tedmori, Sara},
+  booktitle={35th IBlMA Conference},
+  year={2020}
+}
 
-•	Mariam Biltawi, Arafat Awajan and Sara Tedmori, "Evaluation of Question Classification," in 2019 2nd International Conference on new Trends in Computing Sciences (ICTCS), Amman, 2019, IEEE.
+@inproceedings{biltawi2019evaluation,
+  title={Evaluation of Question Classification},
+  author={Biltawi, Mariam and Awajan, Arafat and Tedmori, Sara},
+  booktitle={2019 2nd International Conference on new Trends in Computing Sciences (ICTCS)},
+  pages={1--7},
+  year={2019},
+  organization={IEEE}
+}
