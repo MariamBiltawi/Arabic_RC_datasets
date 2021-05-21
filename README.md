@@ -3,7 +3,11 @@ This repository contains three Arabic Reading Comprehension datasets created sem
 
 
 AQA_dataset: Arabic Question Answering
+
 Updated_CLEF_dataset
+
 Updated_TREC_dataset
+
 Please cite the following papers when these datasets are used:
+
 
