@@ -1,5 +1,5 @@
 # Arabic_RC_datasets
-This repository contains three Arabic Reading Comprehension datasets created semiautomatically, and they are:
+This repository contains three Excel files that represent Arabic Reading Comprehension datasets created semiautomatically, and they are:
 
 •	AQA_dataset: Arabic Question Answering
 
