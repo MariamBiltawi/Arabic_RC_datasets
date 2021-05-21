@@ -7,7 +7,7 @@
 > 
 > ## Please cite the following papers when these datasets are used:
 >
->  If all the three datasets are experimented:
+>  If all the three datasets are experimented, please cite the following paper:
 > 
 >      @inproceedings{biltawi2020arabic,
 >        title={Arabic Reading Comprehension Benchmarks Created Semiautomatically},
@@ -19,7 +19,7 @@
 >      }
 >      
 >      
->  If Only updated CLEF is experimented:
+>  If Only updated CLEF is experimented, please cite the following two papers:
 >  
 >      @inproceedings{biltawi2020towards,
 >        title={Towards Building an Open-Domain Corpus for Arabic Reading Comprehension},
